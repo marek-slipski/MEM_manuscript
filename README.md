@@ -1,7 +1,7 @@
 [![DOI](https://zenodo.org/badge/492086150.svg)](https://zenodo.org/badge/latestdoi/492086150)
 
 # MEM_manuscript
-Cloud fraction and temperature data used in "Distribution and Local Time Variability of Aphelion Equatorial Mesospheric Clouds."
+Cloud fraction and temperature data used in "Role of thermal tides and gravity waves in Mars equatorial mesospheric cloud formation revealed by Mars Climate Sounder observations."
 
 ## Data
 Cloud fraction data: `data/cloud_fractions.nc`
